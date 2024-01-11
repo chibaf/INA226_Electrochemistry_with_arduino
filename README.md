@@ -1,0 +1,2 @@
+# INA226_Electrochemistry_with_arduino
+Electrochemistry measurement with ina226 
