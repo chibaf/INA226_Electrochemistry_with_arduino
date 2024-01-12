@@ -3,6 +3,4 @@ Electrochemistry measurement with ina226
 
 PIN equivalent
 
-INA226 VS SCL SDA AL GND 
-
-Arduino V5 A5 A4 - GND
+INA226-Arduino VS-V5 SCL-A5 SDA-A4 AL- GND-GND 
