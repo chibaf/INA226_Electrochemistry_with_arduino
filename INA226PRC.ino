@@ -116,6 +116,6 @@ void loop() {
 //  Serial.println((BAT_Capacity/c/24)*(Adv_Interval/100),0);
   Serial.println(0.0);
   //１秒に１回を表示する。
-  delay(1000);
+  delay(200);
 }
 
