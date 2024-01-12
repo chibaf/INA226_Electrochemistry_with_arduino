@@ -10,3 +10,8 @@ INA226-Arduino  VS-V5;  SCL-A5;  SDA-A4;  AL- ; GND-GND
 ![IMG_5355](https://github.com/chibaf/INA226_Electrochemistry_with_arduino/assets/1296728/b92daf94-6c1c-4a22-b699-96b2f17ea673)
 
 ![IMG_5354](https://github.com/chibaf/INA226_Electrochemistry_with_arduino/assets/1296728/25bebd40-813e-4638-9e13-9c4991d308d3)
+
+## ref 
+INA226 - Arduino Reference https://www.arduino.cc/reference/en/libraries/ina226/
+
+Texas Instruments のデジタル電圧・電流センサ INA226 を使う https://n.mtng.org/ele/arduino/tutorial014.html
