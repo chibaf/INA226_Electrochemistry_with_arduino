@@ -13,6 +13,8 @@ INA226-Arduino  VS-V5;  SCL-A5;  SDA-A4;  AL- ; GND-GND
 
 ![ina226-r3-exp](https://github.com/chibaf/INA226_Electrochemistry_with_arduino/assets/1296728/a0a98cbc-638d-40ba-b2a5-9813aee71d04)
 
+## Strawberry Linux
+
 発売から11年【定番】I2C電流・電圧センサモジュール
 
 ■I2C接続で直流回路の電流・電圧・電力をモニターできる電力計モジュールです。今年で販売11年目になります。 
