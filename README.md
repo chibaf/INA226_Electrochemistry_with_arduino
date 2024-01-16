@@ -79,3 +79,5 @@ INA226 - Arduino Reference https://www.arduino.cc/reference/en/libraries/ina226/
 Texas Instruments のデジタル電圧・電流センサ INA226 を使う https://n.mtng.org/ele/arduino/tutorial014.html
 
 INA226 I2Cディジタル電流・電圧・電力計モジュール(20Aタイプ) - INA226 - Strawberry Linux https://strawberry-linux.com/catalog/items?code=12031
+
+![ina226-r3-exp](https://github.com/chibaf/INA226_Electrochemistry_with_arduino/assets/1296728/a0a98cbc-638d-40ba-b2a5-9813aee71d04)
